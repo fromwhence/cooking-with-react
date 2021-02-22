@@ -17,7 +17,7 @@ function App() {
       <button
         onClick={() =>
           setTheme((prevTheme) => {
-            return prevTheme === "red" ? "blue" : "red";
+            return prevTheme === "red" ? "yellow" : "red";
           })
         }
       >
